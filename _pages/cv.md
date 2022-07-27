@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ziyan Zheng"
+title: "Ziyan Zheng / CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -50,6 +50,12 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Language
+======
+* English
+* Mandarin
+* Cantonese
   
 Service and leadership
 ======
