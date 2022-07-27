@@ -86,14 +86,14 @@ Shenzhen, China
 - Ph.D. in Data Science and Information Technology
 - Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Sun Yat-sen University** `2015.09 - 2019.06`
 
 ```
-New York, NY
+Guangzhou, China
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- B.S. in Mathematics and Applied Mathematics, _Magna Cum Laude_
+- Outstanding Undergraduate Student Award
 
 ### **Dickinson College** `2013.9 - 2016.5`
 
