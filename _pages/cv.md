@@ -59,10 +59,14 @@ Academic Honors/Awards
 * Honorable Mention in Interdisciplinary Contest in Modeling (ICM) `2017.02`
 * 第八届全国大学生数学竞赛（数学专业）三等奖 `2016.11`
   
-Skills/Experience
+Skills/Interests
 ======
+* Piano
+  * Amateur Level 10
+  * 亚洲钢琴公开赛第四名 `中国香港, Before 2009`
+  * 中国海伦杯钢琴比赛一等奖 `Before 2009`
+  * 加拿大国际钢琴公开赛中国区二等奖 `Before 2009`
 * 
-* Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
