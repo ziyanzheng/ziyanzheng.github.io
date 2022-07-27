@@ -45,8 +45,12 @@ Service and leadership
 
 
 ---
-layout: cv
-title: Ziyan Zheng
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 email:
   url: mailto:zhengzy19@mails.tsinghua.edu.cn
   text: zhengzy19@mails.tsinghua.edu.cn
