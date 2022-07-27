@@ -13,9 +13,9 @@ redirect_from:
 Education
 ======
 **Tsinghua University** `2019.09 -`
-* Ph.D in Data Science and Information Technology, Tsinghua-Berkeley Shenzhen Institute
-* Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
+* Ph.D. in Data Science and Information Technology, Tsinghua-Berkeley Shenzhen Institute
 * Research interest: Deep learning theory and its applications in communications and computer vision
+* Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
 
 **Sun Yat-sen University** `2015.09 - 2019.06`
 * B.S. in Mathematics and Applied Mathematics, Department of Mathematics
