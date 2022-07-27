@@ -9,24 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-## **Tsinghua University** `2019.09 -`
+**Tsinghua University** `2019.09 -`
 * Ph.D in Data Science and Information Technology, Tsinghua-Berkeley Shenzhen Institute
 * Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
 
-## **Sun Yat-sen University** `2015.09 - 2019.06`
+**Sun Yat-sen University** `2015.09 - 2019.06`
 * B.S. in Mathematics and Applied Mathematics, Department of Mathematics
 
 
 Work/Study experience
 ======
-## **University of California, Berkeley** `2022.05 -`
+**University of California, Berkeley** `2022.05 -`
 * Visiting Scholar at Department of Eletrical Engineering and Computer Sciences
 
-## **University of California, Berkeley** `2017.08 - 2017.12`
-* 08/2017 - 12/2017: Exchange Student at University of California, Berkeley
-  * Courses attended: MATH 126-Intro to Partial differential Equations, MATH 113-Intro to Abstract Algebra, SOCIOL 173-Contemporary Chinese Society, SOCIOL 198-Strategies for Cross-Cultural Communication
+**University of California, Berkeley** `2022.05 -`
+
+**University of California, Berkeley** `2017.08 - 2017.12`
+* Exchange Student
+* Courses attended: MATH 126-Intro to Partial differential Equations, MATH 113-Intro to Abstract Algebra, SOCIOL 173-Contemporary Chinese Society, SOCIOL 198-Strategies for Cross-Cultural Communication
 
 Publications
 ======
