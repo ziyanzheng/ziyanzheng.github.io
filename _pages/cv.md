@@ -16,13 +16,15 @@ Education
 * Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
 
 ## **Sun Yat-sen University** `2015.09 - 2019.06`
-* B.S. in Department of Mathematics, Sun Yat-sen University
+* B.S. in Mathematics and Applied Mathematics, Department of Mathematics
 
 
-Study experience
+Work/Study experience
 ======
-* 05/2022 - 06/2023 (expected): Visiting Scholar at Department of Eletrical Engineering and Computer Sciences, University of California, Berkeley
-  * Supervisor: Professor Yi Ma
+## **University of California, Berkeley** `2022.05 -`
+* Visiting Scholar at Department of Eletrical Engineering and Computer Sciences
+
+## **University of California, Berkeley** `2017.08 - 2017.12`
 * 08/2017 - 12/2017: Exchange Student at University of California, Berkeley
   * Courses attended: MATH 126-Intro to Partial differential Equations, MATH 113-Intro to Abstract Algebra, SOCIOL 173-Contemporary Chinese Society, SOCIOL 198-Strategies for Cross-Cultural Communication
 
