@@ -25,11 +25,16 @@ Work/Study experience
 **University of California, Berkeley** `2022.05 -`
 * Visiting Scholar at Department of Eletrical Engineering and Computer Sciences
 
-**University of California, Berkeley** `2022.05 -`
+**Southwestern University of Finance and Economics** `2019.06 - 2019.07`
+* Attendee in Data Science FPF, Department of Statistics
+
+**The Chinese University of Hong Kong, Shenzhen** `2018.07 - 2018.08`
+* Student in SFI Pre-term Summer Courses, Shenzhen Finance Institute
+* Full marks in attended courses: Financial Theory and Data
 
 **University of California, Berkeley** `2017.08 - 2017.12`
 * Exchange Student
-* Courses attended: MATH 126-Intro to Partial differential Equations, MATH 113-Intro to Abstract Algebra, SOCIOL 173-Contemporary Chinese Society, SOCIOL 198-Strategies for Cross-Cultural Communication
+* Full marks in attended courses: MATH 126-Intro to Partial differential Equations, MATH 113-Intro to Abstract Algebra, SOCIOL 173-Contemporary Chinese Society, SOCIOL 198-Strategies for Cross-Cultural Communication
 
 Publications
 ======
