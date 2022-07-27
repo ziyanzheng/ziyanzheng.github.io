@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ziyan Zheng"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,20 +11,12 @@ redirect_from:
 
 Education
 ======
-* 09/2019 - 09/2024 (expected): Ph.D in Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
-  * Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
-* 09/2015 - 06/2019: B.S. in Department of Mathematics, Sun Yat-sen University
+## **Tsinghua University** `2019.09 -`
+* Ph.D in Data Science and Information Technology, Tsinghua-Berkeley Shenzhen Institute
+* Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
 
-## Education
-
-### **Tsinghua University** `2019.09 -`
-
-```
-Shenzhen, China
-```
-
-- Ph.D. in Data Science and Information Technology
-- Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
+## **Sun Yat-sen University** `2015.09 - 2019.06`
+* B.S. in Department of Mathematics, Sun Yat-sen University
 
 
 Study experience
