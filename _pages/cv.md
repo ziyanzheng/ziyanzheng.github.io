@@ -21,7 +21,7 @@ Education
 * B.S. in Mathematics and Applied Mathematics, Department of Mathematics
 
 
-Work/Study experience
+Study/Work experience
 ======
 **University of California, Berkeley** `2022.05 -`
 * Visiting Scholar at Department of Eletrical Engineering and Computer Sciences
@@ -36,6 +36,10 @@ Work/Study experience
 **University of California, Berkeley** `2017.08 - 2017.12`
 * Exchange Student
 * Full marks for attended courses: MATH 126-Intro to Partial differential Equations, MATH 113-Intro to Abstract Algebra, SOCIOL 173-Contemporary Chinese Society, SOCIOL 198-Strategies for Cross-Cultural Communication
+
+**党团工作**
+* 党支部组织委员 `清华大学, 2019.06 - `
+* 中山大学优秀团支部书记 `中山大学, 2015 - 2017`
 
 Publications
 ======
@@ -59,18 +63,30 @@ Academic Honors/Awards
 * Honorable Mention in Interdisciplinary Contest in Modeling (ICM) `2017.02`
 * 第八届全国大学生数学竞赛（数学专业）三等奖 `2016.11`
   
-Skills/Interests
+Skills/Interests/Experience
 ======
 * Piano
   * Amateur Level 10
   * 亚洲钢琴公开赛第四名 `中国香港, Before 2009`
   * 中国海伦杯钢琴比赛一等奖 `Before 2009`
   * 加拿大国际钢琴公开赛中国区二等奖 `Before 2009`
-* 
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Singing
+  * 清华大学清深合唱团/TAP合唱团男高声部 `2019 - 2020`
+  * 参演清北联合出品的原创歌曲《春天的祝愿》 `2020.03`
+  * 参演“浪漫相约 最美和声” 主题艺术节 `深圳福田，2019.09.22`
+  * 参演巡礼大湾区“人民红”快闪《大鱼》《我爱你中国》 `深圳龙岗，2019.09.22`
+  * 参演南国清华仲夏夜之梦音乐会 `深圳大学城，2019.09.20`
+  * 第十六届“不能说的秘密·心声杯”歌唱比赛十强（第6名）`中山大学数学学院, 2016.04`
+* Dancing
+  * 中山大学舞蹈团成员 `2015 - 2016`
+  * 广东清远“三下乡”扶贫社会实践活动艺术表演队队员 `清远连州, 2016.06`
+  * 中山大学“我们毕业了”大型舞蹈晚会演员 `2016`
+  * 中山大学“毕业快闪”录制演员 `2016`
+* Guzheng
+* Classical guitar
+* 其他
+  * 旅行博主，到访中国所有省级行政区 `2022.01`
+  * 湖南卫视《歌手》大众评审 `2020.03`
 
 Language
 ======
