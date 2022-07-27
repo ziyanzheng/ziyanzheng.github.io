@@ -19,6 +19,8 @@ Education
 
 **Sun Yat-sen University** `2015.09 - 2019.06`
 * B.S. in Mathematics and Applied Mathematics, Department of Mathematics
+* Scientific Base for Talented Persons (基地班)
+* International class of basic mathematics (基础数学国际班)
 
 
 Study/Work experience
