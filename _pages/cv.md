@@ -15,6 +15,7 @@ Education
 **Tsinghua University** `2019.09 -`
 * Ph.D in Data Science and Information Technology, Tsinghua-Berkeley Shenzhen Institute
 * Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
+* Research interest: Deep learning theory and its applications in communications and computer vision.
 
 **Sun Yat-sen University** `2015.09 - 2019.06`
 * B.S. in Mathematics and Applied Mathematics, Department of Mathematics
@@ -41,6 +42,16 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Projects
+======
+* Music Arrangement
+  * [Matlab](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A2018%E7%A5%9E%E6%9B%B2%E8%BF%B7%E4%BD%A0%E4%B8%B2%E7%83%A7%E3%80%8BMATLAB%E7%BC%96%E6%9B%B2.m)
+  * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb)
+
+Honors/Awards
+======
+* 
   
 Skills
 ======
