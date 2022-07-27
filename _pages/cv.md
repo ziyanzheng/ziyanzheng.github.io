@@ -59,6 +59,8 @@ homepage:
   text: ziyanzheng.github.io
 ---
 
+{% include base_path %}
+
 # **Ziyan Zheng**
 
 <!--
@@ -69,7 +71,9 @@ Supported arguments:
     - email
 -->
 
+<!--
 {% include cv-contact.html %}
+-->
 
 ## Education
 
@@ -213,4 +217,4 @@ Research Experiences for Undergraduates in Software Engineering Admission Commit
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
