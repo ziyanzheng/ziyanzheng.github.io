@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, 2024 (expected)
-* B.S. in Department of Mathematics, Sun Yat-sen University, 2019
+* 09/2019 - 09/2024 (expected): Ph.D in Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
+  * Supervisor: Professor Shao-Lun Huang 
+* 09/2015 - 06/2019: B.S. in Department of Mathematics, Sun Yat-sen University
 
 Study experience
 ======
-* 05/2022 - 06/2023 (expected): Visiting Scholar
-  * Department of Eletrical Engineering and Computer Sciences, University of California, Berkeley
+* 05/2022 - 06/2023 (expected): Visiting Scholar at Department of Eletrical Engineering and Computer Sciences, University of California, Berkeley
   * Supervisor: Professor Yi Ma
-* 08/2017 - 12/2017: Exchange Student
-  * University of California, Berkeley
+* 08/2017 - 12/2017: Exchange Student at University of California, Berkeley
   * Courses attended: MATH 126-Intro to Partial differential Equations, MATH 113-Intro to Abstract Algebra, SOCIOL 173-Contemporary Chinese Society, SOCIOL 198-Strategies for Cross-Cultural Communication
 
-# * Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -36,24 +36,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-# Talks
-# ======
-#   <ul>{% for post in site.talks %}
-#     {% include archive-single-talk-cv.html %}
-#   {% endfor %}</ul>
-  
-# Teaching
-# ======
-#   <ul>{% for post in site.teaching %}
-#     {% include archive-single-cv.html %}
-#   {% endfor %}</ul>
   
 Service and leadership
 ======
