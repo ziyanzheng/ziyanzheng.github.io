@@ -67,7 +67,7 @@ Skills/Interests/Experiences
 ======
 * Piano
   * Amateur Level 10 `2008`
-  * 第十四届香港-亚洲钢琴公开赛车尔尼B组一等奖（第四名） `2007`
+  * 第十四届香港-亚洲钢琴公开赛一等奖（车尔尼B组第四名） `2007`
   * Third Awards in 2006 Artist International 9th Annual Music Competition Canada (China Audition in Guangzhou) `2006`
   * 第二届TOYOMA亚洲青少年音乐比赛（广州区钢琴）第二名 `2003`
 * Singing
