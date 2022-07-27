@@ -59,7 +59,7 @@ homepage:
   text: ziyanzheng.github.io
 ---
 
-# Wode **Ni**
+# **Ziyan Zheng**
 
 <!--
 include contact information from the front matter
@@ -73,14 +73,14 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Tsinghua University** `2019.09 -`
 
 ```
-Pittsburgh, PA
+Shenzhen, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Ph.D. in Data Science and Information Technology
+- Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
 
 ### **Columbia University** `2016.9 - 2018.5`
 
