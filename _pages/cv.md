@@ -94,6 +94,6 @@ Skills/Interests/Experiences
 
 Language
 ======
-* English
 * Mandarin
 * Cantonese
+* English
