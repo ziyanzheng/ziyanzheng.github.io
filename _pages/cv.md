@@ -52,8 +52,8 @@ Publications
 Academic Projects/Activities
 ======
 * Music Arrangement
-  * [Matlab](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A2018%E7%A5%9E%E6%9B%B2%E8%BF%B7%E4%BD%A0%E4%B8%B2%E7%83%A7%E3%80%8BMATLAB%E7%BC%96%E6%9B%B2.m), listen [here](http://5sing.kugou.com/yc/3703790.html)
-  * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb)
+  * [Matlab](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A2018%E7%A5%9E%E6%9B%B2%E8%BF%B7%E4%BD%A0%E4%B8%B2%E7%83%A7%E3%80%8BMATLAB%E7%BC%96%E6%9B%B2.m)
+  * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb), listen [here](http://5sing.kugou.com/yc/3703790.html)
 * Reviewer for 2021 IEEE International Conference on Acoustics, Speech and Signal Processing, Toronto, Ontario, Canada
 * IEEE student member `2021 - `, IEEE ComSoc member `2022 - ` 
 
