@@ -63,7 +63,7 @@ Academic Honors/Awards
 * Honorable Mention in Interdisciplinary Contest in Modeling (ICM) `2017.02`
 * 第八届全国大学生数学竞赛（数学专业）三等奖 `2016.11`
   
-Skills/Interests/Experience
+Skills/Interests/Experiences
 ======
 * Piano
   * Amateur Level 10
@@ -84,6 +84,7 @@ Skills/Interests/Experience
   * 中山大学“毕业快闪”录制演员 `2016`
 * Guzheng
 * Classical guitar
+* Table Tennis
 * 其他
   * 旅行博主，到访中国所有省级行政区 `2022.01`
   * 湖南卫视《歌手》大众评审 `2020.03`
