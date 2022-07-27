@@ -31,11 +31,9 @@ Study/Work experience
 
 **The Chinese University of Hong Kong, Shenzhen** `2018.07 - 2018.08`
 * Student in SFI Pre-term Summer Courses, Shenzhen Finance Institute
-* Full marks for attended courses: Financial Theory and Data
 
 **University of California, Berkeley** `2017.08 - 2017.12`
-* Exchange Student
-* Full marks for attended courses: MATH 126-Intro to Partial differential Equations, MATH 113-Intro to Abstract Algebra, SOCIOL 173-Contemporary Chinese Society, SOCIOL 198-Strategies for Cross-Cultural Communication
+* International Student
 
 **党团工作**
 * 党支部组织委员 `清华大学, 2019.06 - `
