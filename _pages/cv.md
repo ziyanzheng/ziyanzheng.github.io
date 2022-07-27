@@ -54,7 +54,7 @@ Academic Projects/Activities
   * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb)
 * Reviewer for 2021 IEEE International Conference on Acoustics, Speech and Signal Processing, Toronto, Ontario, Canada
 
-Academic Honors/Awards
+Academic Honors/Awards (Selected)
 ======
 * TBSI Study Overseas Scholarship `2022 - 2023`
 * TBSI Leaders of Tomorrow Scholarships - Merit Scholarship `2019 - 2020`
@@ -87,9 +87,10 @@ Skills/Interests/Experiences
 * Classical guitar
   * 参演星海音乐厅“美音之夜 弦动我心”吉他音乐会 `2015.10`
 * Table Tennis
-* 其他
+* Others (Selected)
   * 旅行博主，完成到访中国所有34个省级行政区 `2022.01`
   * 湖南卫视《歌手》大众评审 `2020.03`
+  * 清华大学赴四川青神社会实践队 `2022.02`, 赴重庆丰都社会实践队 `2020.01`
 
 Language
 ======
