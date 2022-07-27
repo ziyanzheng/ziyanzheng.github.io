@@ -95,15 +95,6 @@ Guangzhou, China
 - B.S. in Mathematics and Applied Mathematics, _Magna Cum Laude_
 - Outstanding Undergraduate Student Award
 
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
 ## Publications
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
