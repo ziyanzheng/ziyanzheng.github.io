@@ -66,10 +66,10 @@ Academic Honors/Awards
 Skills/Interests/Experiences
 ======
 * Piano
-  * Amateur Level 10
-  * 亚洲钢琴公开赛第四名 `中国香港, Before 2009`
-  * 中国海伦杯钢琴比赛一等奖 `Before 2009`
-  * 加拿大国际钢琴公开赛中国区二等奖 `Before 2009`
+  * Amateur Level 10 `2008`
+  * 第十四届香港-亚洲钢琴公开赛车尔尼B组一等奖（第四名） `2007`
+  * Third Awards in 2006 Artist International 9th Annual Music Competition Canada (China Audition in Guangzhou) `2006`
+  * 第二届TOYOMA亚洲青少年音乐比赛（广州区钢琴）第二名 `2003`
 * Singing
   * 清华大学清深合唱团/TAP合唱团男高声部 `2019 - 2020`
   * 参演声援武汉的清北联合出品原创歌曲《春天的祝愿》 `2020.03.08`
