@@ -1,4 +1,3 @@
-<!--
 ---
 layout: archive
 title: "CV"
@@ -41,9 +40,9 @@ Skills
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
--->
 
 
+<!--
 ---
 layout: cv
 title: "CV"
@@ -209,3 +208,4 @@ Research Experiences for Undergraduates in Software Engineering Admission Commit
 <!-- ### Footer
 
 Last updated: July 2022 -->
+-->
