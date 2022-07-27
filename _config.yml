@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ziyan Zheng"
   avatar           : "profile.png"
-  bio              : "Visiting Scholar at University of California, Berkeley. <br /> PhD student in Tsinghua University."
+  bio              : "Visiting Scholar at University of California, Berkeley. PhD student in Tsinghua University."
   location         : "Berkeley, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ziyan_Zheng4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ziyanzheng"
+  github           : "https://github.com/ziyanzheng"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
