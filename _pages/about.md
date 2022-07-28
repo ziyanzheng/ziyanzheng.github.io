@@ -13,4 +13,5 @@ Ziyan Zheng is currently a Ph.D. candidate of Tsinghua Berkeley Shenzhen Institu
 # See more details
 [Academic publications](https://ziyanzheng.github.io/publications/) <br>
 [Talks and presentations](https://ziyanzheng.github.io/talks/) <br>
+[Blog posts](https://ziyanzheng.github.io/year-archive/) <br>
 [CV](https://ziyanzheng.github.io/cv/)
