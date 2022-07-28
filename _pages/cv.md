@@ -56,6 +56,7 @@ Academic Projects/Activities
   * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb), listen [here (山高水长Mathematica版)](http://5sing.kugou.com/yc/3703790.html)
 * Reviewer for 2021 IEEE International Conference on Acoustics, Speech and Signal Processing, Toronto, Ontario, Canada
 * IEEE student member `2021 - `, IEEE ComSoc member `2022 - ` 
+* [Some notes for LeetCode](https://github.com/ziyanzheng/LeetCode)
 
 Academic Honors/Awards (Selected)
 ======
