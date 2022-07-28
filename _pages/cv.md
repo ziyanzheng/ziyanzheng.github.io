@@ -43,6 +43,7 @@ Study/Work experience
 * 中山大学优秀团支部书记 `2015 - 2017`
   * 数计院“红旗团支部” `2015 - 2016`
 * 中山大学2019届校友理事 `2019 - `
+  * [发言稿](https://github.com/ziyanzheng/LeetCode)
 
 Publications
 ======
