@@ -91,6 +91,7 @@ Skills/Interests/Experiences
 * Classical guitar
   * 参演星海音乐厅“美音之夜 弦动我心”吉他音乐会 `2015.10`
 * Table Tennis
+* Tennis
 * Others (Selected)
   * 旅行博主, 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - , 2017, 2016`, U.K. `2020, 2013`, Canada `2016`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018`, Singapore `2012`, Malaysia `2012`
   * 湖南卫视《歌手》大众听审 (500人) `2020.03`
