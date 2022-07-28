@@ -57,6 +57,7 @@ Academic Projects/Activities
 * Reviewer for 2021 IEEE International Conference on Acoustics, Speech and Signal Processing, Toronto, Ontario, Canada
 * IEEE student member `2021 - `, IEEE ComSoc member `2022 - ` 
 * [Some notes for LeetCode](https://github.com/ziyanzheng/LeetCode)
+* [Some notes for Tensorflow](https://github.com/ziyanzheng/Tensorflow-note)
 
 Academic Honors/Awards (Selected)
 ======
