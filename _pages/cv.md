@@ -42,8 +42,7 @@ Study/Work experience
   * 校级党建标兵党支部 `2022`
 * 中山大学优秀团支部书记 `2015 - 2017`
   * 数计院“红旗团支部” `2015 - 2016`
-* 中山大学2019届校友理事 `2019 - `
-  * [发言稿](https://github.com/ziyanzheng/LeetCode)
+* [中山大学2019届校友理事](http://ziyanzheng.github.io/files/2019郑子严年级理事代表发言稿.pdf) `2019 - `
 
 Publications
 ======
