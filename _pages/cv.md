@@ -23,7 +23,7 @@ Education
 * International class of basic mathematics (基础数学国际班)
 
 
-Study/Work experience
+Study/Work Experiences
 ======
 **University of California, Berkeley** `2022.05 -`
 * Visiting Scholar at Department of Eletrical Engineering and Computer Sciences
