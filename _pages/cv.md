@@ -91,7 +91,7 @@ Skills/Interests/Experiences
   * 中山大学“我们毕业了”大型舞蹈晚会演员 `2016`
   * 参演中山大学“毕业快闪”录制 `2016`
 * Guzheng
-* Classical guitar
+* Classical Guitar
   * 参演星海音乐厅“美音之夜 弦动我心”吉他音乐会 `2015.10`
 * Table Tennis
 * Tennis
