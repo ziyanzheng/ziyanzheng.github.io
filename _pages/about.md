@@ -26,7 +26,9 @@ onMouseOut="this.style.color = '#003262'"> IEEE International Conference on Comm
 </ul>
 
 # More
-[Academic publications](https://ziyanzheng.github.io/publications/) <br>
-[Talks and presentations](https://ziyanzheng.github.io/talks/) <br>
-[Blog posts](https://ziyanzheng.github.io/year-archive/) <br>
-[CV](https://ziyanzheng.github.io/cv/)
+<ul>
+ <li>[Academic publications](https://ziyanzheng.github.io/publications/) <br>
+ <li>[Talks and presentations](https://ziyanzheng.github.io/talks/) <br>
+ <li>[Blog posts](https://ziyanzheng.github.io/year-archive/) <br>
+ <li>[CV](https://ziyanzheng.github.io/cv/)
+</ul>
