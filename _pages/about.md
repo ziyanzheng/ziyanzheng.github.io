@@ -10,6 +10,17 @@ redirect_from:
 
 Ziyan Zheng is currently a Ph.D. candidate of Tsinghua Berkeley Shenzhen Institute, Tsinghua University. He is researching as a visiting scholar in the Department of Eletrical Engineering and Computer Sciences (EECS), University of California, Berkeley from May 2022. Ziyan Zheng received his Bachelor's degree in Mathematics and Applied Mathematics from Sun Yat-sen University in 2019. His research interests include deep learning theory and its applications in communications and computer vision.
 
+<font face="Arial,Helvetica">  <font size=-1> <FONT size=+0
+color="#FDB515">  <b>New and Recent Events:</b>  </FONT> 
+<ul>
+<li>  Keynote Speech at the <a STYLE="text-decoration:none"
+href="https://irdta.eu/deeplearn2022w"><FONT color="#003262"
+onMouseOver="this.style.color =  '#FDB515'"
+onMouseOut="this.style.color = '#003262'"> International School on
+Deep Learning (DeepLearn 2022)</FONT></a>, United Kingdom, postponed
+to January 2023.<br>
+
+
 # More
 [Academic publications](https://ziyanzheng.github.io/publications/) <br>
 [Talks and presentations](https://ziyanzheng.github.io/talks/) <br>
