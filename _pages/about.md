@@ -19,7 +19,7 @@ onMouseOut="this.style.color = '#003262'"> IEEE East Asian School of Information
 (EASIT 2022)</FONT></a>, Shenzhen, China, August 1-4, 2022.<br>
 
 <li>  Talk at the <a STYLE="text-decoration:none"
-href="[http://easit.itguangzhou.cn/pdf/Posters.pdf](https://icc2022.ieee-icc.org/program/technical-symposium-program/symposia-virtual-wednesday-18-may-2022#SAC-MLC-9)"><FONT color="#003262"
+href="https://icc2022.ieee-icc.org/program/technical-symposium-program/symposia-virtual-wednesday-18-may-2022#SAC-MLC-9"><FONT color="#003262"
 onMouseOver="this.style.color =  '#FDB515'"
 onMouseOut="this.style.color = '#003262'"> IEEE International Conference on Communications 
 (ICC 2022)</FONT></a>, Seoul, South Korea, May 16-20, 2022.<br>
