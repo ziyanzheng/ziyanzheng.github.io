@@ -64,7 +64,7 @@ Academic Projects/Activities
 Academic Honors/Awards (Selected)
 ======
 * TBSI Study Overseas Scholarship `2022 - 2023`
-* 清华大学深圳国际研究生院专项二等奖学金（SIGS-TBSI）
+* 清华大学深圳国际研究生院专项二等奖学金（SIGS-TBSI）`2022`
 * TBSI Leaders of Tomorrow Scholarships - Merit Scholarship `2019 - 2020`
 * 中山大学优秀毕业生 `2019.05`
 * 中山大学优秀学生一等奖学金 `2016 - 2017`
