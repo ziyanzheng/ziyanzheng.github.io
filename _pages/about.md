@@ -13,6 +13,10 @@ Ziyan Zheng is currently a Ph.D. candidate of Tsinghua Berkeley Shenzhen Institu
 # New and Recent Events
 
 * Poster at the <a STYLE="text-decoration:none"
+onMouseOver="this.style.color =  '#FDB515'"
+onMouseOut="this.style.color = '#003262'"> TBSI Year-end Poster Symposium 
+(EASIT 2022)</FONT></a>, Berkeley, U.S., December 7, 2022.
+* Poster at the <a STYLE="text-decoration:none"
 href="http://easit.itguangzhou.cn/pdf/Posters.pdf"><FONT color="#003262"
 onMouseOver="this.style.color =  '#FDB515'"
 onMouseOut="this.style.color = '#003262'"> IEEE East Asian School of Information Theory 
