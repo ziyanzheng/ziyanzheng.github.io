@@ -98,7 +98,7 @@ Skills/Interests/Experiences
 * Table Tennis
 * Tennis
 * Others (Selected)
-  * 旅行博主, 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - , 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018`, Singapore `2012`, Malaysia `2012`
+  * 旅行博主, 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - 2023, 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018`, Singapore `2012`, Malaysia `2012`
   * 湖南卫视《歌手》五百大众听审 `2020.03`
   * 清华大学赴四川青神社会实践队 `2022.02`, 赴重庆丰都社会实践队 `2020.01`, 领客计划(LINK)-第十届学生创新领袖训练营 `2019.08`
   * 中山大学赴清远连州“三下乡”扶贫社会实践队 `2016.06`, 赴西安交通大学交流  `2018.03`
