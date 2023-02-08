@@ -25,7 +25,7 @@ Education
 
 Study/Work Experiences
 ======
-**University of California, Berkeley** `2022.05 -`
+**University of California, Berkeley** `2022.05 - 2023.05`
 * Visiting Scholar at Department of Eletrical Engineering and Computer Sciences
 
 **Southwestern University of Finance and Economics** `2019.06 - 2019.07`
