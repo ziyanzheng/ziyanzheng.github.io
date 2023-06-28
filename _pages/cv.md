@@ -57,7 +57,6 @@ Academic Projects/Activities
   * [Matlab](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A2018%E7%A5%9E%E6%9B%B2%E8%BF%B7%E4%BD%A0%E4%B8%B2%E7%83%A7%E3%80%8BMATLAB%E7%BC%96%E6%9B%B2.m)
   * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb), listen [here (山高水长Mathematica版)](http://5sing.kugou.com/yc/3703790.html)
 * Reviewer for 2021 IEEE International Conference on Acoustics, Speech and Signal Processing, Toronto, Ontario, Canada
-* IEEE student member `2021 - `, IEEE ComSoc member `2022 - ` 
 * [Some notes for LeetCode](https://github.com/ziyanzheng/LeetCode)
 * [Some notes for TensorFlow](https://github.com/ziyanzheng/Tensorflow-note)
 
@@ -92,18 +91,11 @@ Skills/Interests/Experiences
   * 广东清远“三下乡”扶贫社会实践艺术表演队队员 `清远连州, 2016.06`
   * 中山大学“我们毕业了”大型舞蹈晚会演员 `2016`
   * 参演中山大学“毕业快闪”录制 `2016`
-* Guzheng
 * Classical Guitar
   * 参演星海音乐厅“美音之夜 弦动我心”吉他音乐会 `2015.10`
-* Table Tennis
-* Tennis
 * Others
   * 清华大学赴四川青神社会实践队 `2022.02`, 赴重庆丰都社会实践队 `2020.01`, 领客计划(LINK)-第十届学生创新领袖训练营 `2019.08`
   * 中山大学赴清远连州“三下乡”扶贫社会实践队 `2016.06`, 赴西安交通大学交流  `2018.03`
   * 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - 2023, 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018`, Singapore `2012`, Malaysia `2012`, Maldives `2023`, Thailand `2023`
   * 小红书蒲公英新锐博主 `2022.11 - `
-  * 携程钻石旅行家、内容合伙人 `2023.02 - 2023.05`、参议院俱乐部议员 `2021.05 - `
-  * 去哪儿网认证聪明旅行家  `2023.01 - `
-  * 马蜂窝认证专业旅行家、专业创作者 `2023.02 - 2023.05`
   * 湖南卫视《歌手》五百大众听审 `2020.03`
-  * 学而思-题拍拍数学金牌答题官 `2021.05`
