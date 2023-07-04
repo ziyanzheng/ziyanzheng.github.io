@@ -53,6 +53,8 @@ Publications
   
 Academic Projects/Activities
 ======
+* Patent
+  * 《一种信号传输方法、装置及系统》，发明申请号：202310090611.9
 * Music Arrangement
   * [Matlab](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A2018%E7%A5%9E%E6%9B%B2%E8%BF%B7%E4%BD%A0%E4%B8%B2%E7%83%A7%E3%80%8BMATLAB%E7%BC%96%E6%9B%B2.m)
   * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb), listen [here (山高水长Mathematica版)](http://5sing.kugou.com/yc/3703790.html)
@@ -70,7 +72,7 @@ Academic Honors/Awards (Selected)
 * Honorable Mention in Interdisciplinary Contest in Modeling (ICM) `2017.02`
 * 第八届全国大学生数学竞赛（数学专业）三等奖 `2016.11`
   
-Skills/Interests/Experiences
+Other Skills/Interests/Experiences
 ======
 * Piano
   * Amateur Level 10 `2008`
