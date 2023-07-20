@@ -26,7 +26,7 @@ Education
 Study/Work Experiences
 ======
 **University of California, Berkeley** `2022.05 - 2023.05`
-* Visiting Scholar at Department of Eletrical Engineering and Computer Sciences
+* Visiting Scholar in the Department of Electrical Engineering and Computer Sciences
 
 **Southwestern University of Finance and Economics** `2019.06 - 2019.07`
 * Attendee in Data Science FPF, Department of Statistics
@@ -54,7 +54,7 @@ Publications
 Academic Projects/Activities
 ======
 * Patent
-  * 《一种信号传输方法、装置及系统》，发明申请号：202310090611.9
+  * 《一种信号传输方法、装置及系统》，发明申请号：202310090611.9 `2023.02发起申请`
 * Music Arrangement
   * [Matlab](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A2018%E7%A5%9E%E6%9B%B2%E8%BF%B7%E4%BD%A0%E4%B8%B2%E7%83%A7%E3%80%8BMATLAB%E7%BC%96%E6%9B%B2.m)
   * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb), listen [here (山高水长Mathematica版)](http://5sing.kugou.com/yc/3703790.html)
@@ -100,4 +100,5 @@ Other Skills/Interests/Experiences
   * 中山大学赴清远连州“三下乡”扶贫社会实践队 `2016.06`, 赴西安交通大学交流  `2018.03`
   * 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - 2023, 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018`, Singapore `2012`, Malaysia `2012`, Maldives `2023`, Thailand `2023`
   * 小红书蒲公英新锐博主 `2022.11 - `
+  * 去哪儿网认证旅行家，内容合伙人 `2023.02 - `
   * 湖南卫视《歌手》五百大众听审 `2020.03`
