@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ziyan Zheng is currently a Ph.D. candidate of Tsinghua Berkeley Shenzhen Institute, Tsinghua University. He researched as a visiting scholar in the Department of Eletrical Engineering and Computer Sciences (EECS), University of California, Berkeley from May 2022 to May 2023. Ziyan received his Bachelor's degree in Mathematics and Applied Mathematics from Sun Yat-sen University in 2019. His research interests include deep learning theory and its applications in communications and computer vision.
+Ziyan Zheng is currently a Ph.D. student of Tsinghua Berkeley Shenzhen Institute, Tsinghua University. He is now working as an intern in Huawei 2012 Lab - Central Research Institute. He researched as a visiting scholar in the Department of Eletrical Engineering and Computer Sciences (EECS), University of California, Berkeley from May 2022 to May 2023. Ziyan received his Bachelor's degree in Mathematics and Applied Mathematics from Sun Yat-sen University in 2019. His research interests include deep learning theory and its applications in communications and computer vision.
 
 # New and Recent Events
 
