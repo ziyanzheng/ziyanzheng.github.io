@@ -25,6 +25,9 @@ Education
 
 Study/Work Experiences
 ======
+**Huawei** `2023.08 - `
+* Intern in Central Research Institute, 2012 Lab
+
 **University of California, Berkeley** `2022.05 - 2023.05`
 * Visiting Scholar in the Department of Electrical Engineering and Computer Sciences
 
