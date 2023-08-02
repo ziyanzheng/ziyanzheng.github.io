@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ziyan Zheng"
-  avatar           : "9f78ad0611b9aeff89ecb12f33a3865.jpg"
-  bio              : "Visiting Scholar at University of California, Berkeley. <br />Ph.D. candidate of Tsinghua University."
-  location         : "Berkeley, California"
+  avatar           : "AI照片.jpg"
+  bio              : "Intern in Huawei 2012 Lab. <br />Ph.D. student of Tsinghua University."
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MCR86Q4AAAAJ&hl=zh-CN&authuser=1&oi=sra"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ziyan-zheng-2a3321167/"
   orcid            : 
   pinterest        :
   soundcloud       :
