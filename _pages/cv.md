@@ -27,9 +27,11 @@ Study/Work Experiences
 ======
 **Huawei** `2023.08 - `
 * Intern in Central Research Institute, 2012 Lab
+  * 协助完成《超大规模无线网络能效与体验均衡鲁棒调控技术》算法解决方案
 
 **University of California, Berkeley** `2022.05 - 2023.05`
 * Visiting Scholar in the Department of Electrical Engineering and Computer Sciences
+  * Research on Closed-loop Transcription and Sparse Coding for Vision Transformer 
 
 **Southwestern University of Finance and Economics** `2019.06 - 2019.07`
 * Attendee in Data Science FPF, Department of Statistics
