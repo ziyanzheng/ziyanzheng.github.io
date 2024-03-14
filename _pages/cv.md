@@ -27,8 +27,9 @@ Study/Work Experiences
 ======
 **Huawei** `2023.08 - `
 * Intern in Central Research Institute, 2012 Lab
-  * 共同提出超大规模无线网络能效调控相关方案（应保密要求，不作详细说明）
-  * 提出高精度高性能话统数据压缩与传输解决方案
+  * 超大规模无线网络能效调控相关方案（应保密要求，不作详细说明）
+  * 高精度高性能话统数据压缩与传输解决方案
+  * Product Quantization
 
 **University of California, Berkeley** `2022.05 - 2023.05`
 * Visiting Scholar in the Department of Electrical Engineering and Computer Sciences
@@ -106,8 +107,8 @@ Other Skills/Interests/Experiences
 * Others
   * 清华大学赴四川青神社会实践队 `2022.02`, 赴重庆丰都社会实践队 `2020.01`, 领客计划(LINK)-第十届学生创新领袖训练营 `2019.08`
   * 中山大学赴清远连州“三下乡”扶贫社会实践队 `2016.06`, 赴西安交通大学交流  `2018.03`
-  * 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - 2023, 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018`, Singapore `2012`, Malaysia `2012`, Maldives `2023`, Thailand `2023`
+  * 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - 2023, 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018`, Singapore `2012`, Malaysia `2012`, Maldives `2023`, Thailand `2023`, Japan `2024`
   * 小红书蒲公英新锐博主 `2022.11 - `
   * 去哪儿网认证旅行家，内容合伙人 `2023.02 - `
   * 湖南卫视综艺《歌手》五百大众听审 `2020.03`
-  * 华为星光集市音乐会：29期粤语金曲主题《无赖》`2023.08.09`，《佳人如梦令》《最好的我们》`2023.08.31`
+  * 华为星光集市音乐会：29期粤语金曲主题《无赖》`2023.08.09`，《佳人如梦》《最好的我们》`2023.08.31`，《九万字》《上春山》`2024.03.14`
