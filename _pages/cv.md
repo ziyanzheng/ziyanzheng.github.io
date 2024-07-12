@@ -26,7 +26,7 @@ Education
 Study/Work Experiences
 ======
 **Huawei** `2023.08 - `
-* Intern in Central Research Institute, 2012 Lab
+* Intern in Central Research, 2012 Lab
   * 超大规模无线网络能效调控相关方案
   * 高精度高性能话统数据压缩与传输解决方案
   * Product Quantization
