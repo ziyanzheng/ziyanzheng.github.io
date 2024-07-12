@@ -27,9 +27,10 @@ Study/Work Experiences
 ======
 **Huawei** `2023.08 - `
 * Intern in Central Research Institute, 2012 Lab
-  * 超大规模无线网络能效调控相关方案（应保密要求，不作详细说明）
+  * 超大规模无线网络能效调控相关方案
   * 高精度高性能话统数据压缩与传输解决方案
   * Product Quantization
+  * Foundation Error Correction Codes Transformer
 
 **University of California, Berkeley** `2022.05 - 2023.05`
 * Visiting Scholar in the Department of Electrical Engineering and Computer Sciences
