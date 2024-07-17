@@ -14,13 +14,13 @@ Education
 ======
 **Tsinghua University** `2019.09 - `
 * Ph.D. in Data Science and Information Technology, Tsinghua-Berkeley Shenzhen Institute
-* Research interest: Deep learning theory and its applications in communications and computer vision
+* Research interest: Deep Networks and Optimization Algorithms, Neural Decoder for Communications, Low-Dimensional Representations for Computer Vision
 * Co-advised by [Shao-Lun Huang](https://sites.google.com/view/slhuang/) and [Yi Ma](https://people.eecs.berkeley.edu/~yima/)
 
 **Sun Yat-sen University** `2015.09 - 2019.06`
 * B.S. in Mathematics and Applied Mathematics, Department of Mathematics
-* Scientific Base for Talented Persons (基地班)
-* International class of basic mathematics (基础数学国际班)
+* Scientific Base for Talented Persons
+* International class of basic mathematics
 
 
 Study/Work Experiences
@@ -29,8 +29,8 @@ Study/Work Experiences
 * Intern in Central Research, 2012 Lab
   * 超大规模无线网络能效调控相关方案
   * 高精度高性能话统数据压缩与传输解决方案
-  * Product Quantization
-  * Foundation Error Correction Codes Transformer
+  * Product Quantization for Image Retrieval
+  * Transformer-based Foundation Model for Decoder
 
 **University of California, Berkeley** `2022.05 - 2023.05`
 * Visiting Scholar in the Department of Electrical Engineering and Computer Sciences
@@ -47,12 +47,12 @@ Study/Work Experiences
 
 **校党团工作**
 * 党支部书记 `清华大学, 2023.09 - `
-* 班级德育助理 `清华大学, 2023.08 - `
+  * 校级党建标兵支部 `2022 - 2024`
+* 学生德育助理 `清华大学, 2023.08 - `
 * BCSSA（伯克利中国学生学者联合会）秘书处成员 `UC Berkeley, 2022.09 - 2023.06`
 * 党支部组织委员 `清华大学, 2019.09 - 2022.08`
-  * 校级党建标兵党支部 `2021 - 2022`
 * 中山大学优秀团支部书记 `2015 - 2017`
-  * 数计院“红旗团支部” `2015 - 2016`
+  * “红旗团支部” `2015 - 2016`
 * [中山大学2019届校友理事](https://www.sysu.edu.cn/news/info/2161/534021.htm) `2019 - `
 
 Publications
@@ -64,7 +64,7 @@ Publications
 Academic Projects/Activities
 ======
 * Patent
-  * 《一种信号传输方法、装置及系统》，发明申请号：202310090611.9 `2023.02发起申请`
+  * 《一种信号传输方法、装置及系统》，发明申请号：202310090611.9 `Filed 2023.02`
 * Music Arrangement
   * [Matlab](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A2018%E7%A5%9E%E6%9B%B2%E8%BF%B7%E4%BD%A0%E4%B8%B2%E7%83%A7%E3%80%8BMATLAB%E7%BC%96%E6%9B%B2.m)
   * [Mathematica](https://github.com/ziyanzheng/Music-Arrangement/blob/master/%E3%80%8A%E5%B1%B1%E9%AB%98%E6%B0%B4%E9%95%BF%E3%80%8BMathematica%E7%BC%96%E6%9B%B2.nb), listen [here (山高水长Mathematica版)](http://5sing.kugou.com/yc/3703790.html)
@@ -110,6 +110,6 @@ Other Skills/Interests/Experiences
   * 中山大学赴清远连州“三下乡”扶贫社会实践队 `2016.06`, 赴西安交通大学交流  `2018.03`
   * 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - 2023, 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018, 2024`, Singapore `2012`, Malaysia `2012`, Maldives `2023`, Thailand `2023`, Japan `2024`
   * 小红书蒲公英新锐博主 `2022.11 - `
-  * 去哪儿网认证旅行家，内容合伙人 `2023.02 - `
+  * 去哪儿网认证旅行家 `2023.02 - `
   * 湖南卫视综艺《歌手》五百大众听审 `2020.03`
   * 华为星光集市音乐会：29期粤语金曲主题《无赖》`2023.08.09`，《佳人如梦》《最好的我们》`2023.08.31`，《九万字》《上春山》`2024.03.14`,《金陵谣》《人间不值得》`2024.06.19`
