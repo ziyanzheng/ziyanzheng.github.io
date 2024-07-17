@@ -23,7 +23,7 @@ Education
 * International class of basic mathematics
 
 
-Study/Work Experiences
+Professional Experience
 ======
 **Huawei** `2023.08 - `
 * Intern in Central Research, 2012 Lab
@@ -55,13 +55,13 @@ Study/Work Experiences
   * “红旗团支部” `2015 - 2016`
 * [中山大学2019届校友理事](https://www.sysu.edu.cn/news/info/2161/534021.htm) `2019 - `
 
-Publications
+Publication
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Academic Projects/Activities
+Academic Project/Activitie
 ======
 * Patent
   * 《一种信号传输方法、装置及系统》，发明申请号：202310090611.9 `Filed 2023.02`
@@ -72,7 +72,7 @@ Academic Projects/Activities
 * [Some notes for LeetCode](https://github.com/ziyanzheng/LeetCode)
 * [Some notes for TensorFlow](https://github.com/ziyanzheng/Tensorflow-note)
 
-Academic Honors/Awards (Selected)
+Academic Honor/Awards (Selected)
 ======
 * TBSI Study Overseas Scholarship `2022 - 2023`
 * 清华大学深圳国际研究生院专项二等奖学金（SIGS-TBSI）`2022`
