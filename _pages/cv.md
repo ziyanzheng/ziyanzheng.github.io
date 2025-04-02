@@ -27,11 +27,12 @@ Professional Experience
 ======
 **Huawei** `2023.08 - 2025.05`
 * Intern in Central Research, 2012 Lab
-  * Neural Decoder for Error Correction Codes.
-  * High-dimensional Neural Predictor. Propose a novel prediction scheme based on RNN and Loyld-max quantizer, introducing periodic time coding, SVD layer and incremental learning. Our method saves 90%+ transmission resources compared to the original solution over a real high-dimensional time series compression, transmission and restoration problem.
+  * Neural Decoder. Improve the interpretability and performance for transformer-based ECC decoders.
+  * High-dimensional Neural Predictor. Propose a novel prediction scheme based on RNN and Loyld-max quantizer. Saves 90%+ transmission resources compared to the original solution over a real high-dimensional time series compression, transmission and restoration problem.
   * SVD Feature Quantizer. Mathematically design an optimal feature quantizer and the corresponding bits allocation solution with arbitrary bit width.
+  * 3D Mesh Lossless Compression. Design low-complexity algorithm that beats current method Deflate.
+  * Baseband Data Lossy Compression. Improve Baseband eCPRI bandwidth and storage efficiency.
   * Image Retrieval Algorithm. Practically enhance the recall and efficiency for Product Quantization.
-  * Foundation Model for Decoder. Improve the interpretability and performance for transformer decoder.
 
 **University of California, Berkeley** `2022.05 - 2023.05`
 * Visiting Scholar in the Department of Electrical Engineering and Computer Sciences
@@ -62,7 +63,7 @@ Publication
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Academic Project/Activitie
+Academic Project/Activity
 ======
 * Patent
   * 《一种信号传输方法、装置及系统》，发明申请号：202310090611.9 `Filed 2023.02`
