@@ -12,7 +12,10 @@ Ziyan Zheng is currently a Ph.D. student of Tsinghua Berkeley Shenzhen Institute
 
 # New and Recent Events
 
-* Research Intern in the Central Research of 2012 Lab of HUAWEI, from August 2, 2023.
+* Poster at the <a STYLE="text-decoration:none"
+onMouseOver="this.style.color =  '#FDB515'"
+onMouseOut="this.style.color = '#003262'"> Conference on Parsimony and Learning, Stanford University, Palo Alto, U.S., March 27, 2025.
+* Research Intern in the Central Research of 2012 Lab of HUAWEI, from August 2, 2023 to May 1, 2025.
 * Poster at the <a STYLE="text-decoration:none"
 onMouseOver="this.style.color =  '#FDB515'"
 onMouseOut="this.style.color = '#003262'"> TBSI Year-end Poster Symposium, Berkeley, U.S., December 7, 2022.
