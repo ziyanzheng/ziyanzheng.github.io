@@ -25,8 +25,9 @@ Education
 
 Professional Experience
 ======
-**Huawei** `2023.08 - `
+**Huawei** `2023.08 - 2025.05`
 * Intern in Central Research, 2012 Lab
+  * Neural Decoder for Error Correction Codes.
   * High-dimensional Neural Predictor. Propose a novel prediction scheme based on RNN and Loyld-max quantizer, introducing periodic time coding, SVD layer and incremental learning. Our method saves 90%+ transmission resources compared to the original solution over a real high-dimensional time series compression, transmission and restoration problem.
   * SVD Feature Quantizer. Mathematically design an optimal feature quantizer and the corresponding bits allocation solution with arbitrary bit width.
   * Image Retrieval Algorithm. Practically enhance the recall and efficiency for Product Quantization.
@@ -108,7 +109,7 @@ Other Skills/Interests/Experiences
 * Others
   * 清华大学“领雁工程”北京红色实践 `2024.06`, 清华大学赴四川青神社会实践队 `2022.02`, 赴重庆丰都社会实践队 `2020.01`, 领客计划(LINK)-第十届学生创新领袖训练营 `2019.08`
   * 中山大学赴清远连州“三下乡”扶贫社会实践队 `2016.06`, 赴西安交通大学交流  `2018.03`
-  * 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2022 - 2023, 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018, 2024`, Singapore `2012`, Malaysia `2012`, Maldives `2023`, Thailand `2023`, Japan `2024`, United Arab Emirates `2024`
+  * 到访中国所有34个省级行政区 `2006 - 2022`, U.S. `2025, 2022 - 2023, 2017, 2016`, Canada `2022, 2016`, Argentina `2022 - 2023`, Chile `2023`, Uruguay `2022`, U.K. `2020, 2013`, France `2013`, Switzerland `2013`, Italy `2013`, Vietnam `2018, 2024`, Singapore `2012`, Malaysia `2012`, Maldives `2023`, Thailand `2023`, Japan `2024`, United Arab Emirates `2024`
   * 小红书蒲公英新锐博主 `2022.11 - `
   * 去哪儿网认证旅行家 `2023.02 - `
   * 湖南卫视综艺《歌手》五百大众听审 `2020.03`
